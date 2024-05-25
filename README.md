@@ -31,12 +31,13 @@ The project is structured as follows:
 - **MonsterSpawner.cs**: Spawns monsters at random intervals from both sides of the screen.
 - **Player.cs**: Implements player movement, jumping, collision detection, and interaction with monsters.
 
-
-
 ### Prefabs
 - **Player**: Prefab for the player character.
 - **Monster**: Prefab for the monsters that spawn in the game.
 
+## Note:
+-  I created this from learning from freecodecamp, my addition features are a scoring mechanism and a game over display.
+  
 ## How to Use
 - Clone the repository or download the .zip file
 - Ensure that Unity Engine and Visual Studio is present in the system.
