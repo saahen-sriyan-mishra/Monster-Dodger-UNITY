@@ -3,13 +3,22 @@
 ## Overview
 Monster Dodger is a simple 2D game where the player's objective is to dodge monsters that spawn from both sides of the screen by jumping over them. The game features basic player controls for movement and jumping, monster spawning from random sides, and a scoring system based on the player's survival time.
 
+---------------------------------------------------------------------------------------
+![1 3](https://github.com/saahen-sriyan-mishra/Monster-Dodger-UNITY/assets/139043263/547e08e5-6314-46b9-95d8-0d18268bd1c2)
+-------------------------------------------------------
+
 ## Gameplay
 - **Controls**: The player can control the character using the arrow keys (or A and D keys) to move left or right and the spacebar to jump.
 - **Objective**: Dodge the monsters by jumping over them. The longer the player survives, the higher the score.
 
+------------------------------------------------------------------
+![1 1](https://github.com/saahen-sriyan-mishra/Monster-Dodger-UNITY/assets/139043263/177e322c-3bf0-45f3-9d86-523556460f27)
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
+![1 2](https://github.com/saahen-sriyan-mishra/Monster-Dodger-UNITY/assets/139043263/99ad2b13-57f9-4ea2-9b94-eca79f358a5e)
+--------------------------------------------------------------------------------------------------------------
 ## Project Structure
 The project is structured as follows:
-![1 3](https://github.com/saahen-sriyan-mishra/Monster-Dodger-UNITY/assets/139043263/547e08e5-6314-46b9-95d8-0d18268bd1c2)
 
 ### Scripts
 - **CameraFollow.cs**: Controls the camera movement to follow the player horizontally.
@@ -21,8 +30,8 @@ The project is structured as follows:
 - **Monster.cs**: Defines the behavior of monsters, including their movement speed.
 - **MonsterSpawner.cs**: Spawns monsters at random intervals from both sides of the screen.
 - **Player.cs**: Implements player movement, jumping, collision detection, and interaction with monsters.
-![1 1](https://github.com/saahen-sriyan-mishra/Monster-Dodger-UNITY/assets/139043263/177e322c-3bf0-45f3-9d86-523556460f27)
-![1 2](https://github.com/saahen-sriyan-mishra/Monster-Dodger-UNITY/assets/139043263/99ad2b13-57f9-4ea2-9b94-eca79f358a5e)
+
+
 
 ### Prefabs
 - **Player**: Prefab for the player character.
