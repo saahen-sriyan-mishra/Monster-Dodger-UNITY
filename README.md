@@ -36,7 +36,7 @@ The project is structured as follows:
 - **Monster**: Prefab for the monsters that spawn in the game.
 
 ## Note:
--  I created this from learning from freecodecamp, my addition features are a scoring mechanism and a game over display.
+-  I created this project by learning from freecodecamp, my additional features include scoring mechanism and a game over display.
   
 ## How to Use
 - Clone the repository or download the .zip file
